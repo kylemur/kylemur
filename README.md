@@ -26,6 +26,12 @@ I'm Kyle Murdock, a Senior Software and Embedded Systems Engineering student at 
 </div>
 - Skills: Embedded systems, Full-stack web development, Machine learning, Mobile app development 
 
+## GitHub Statistics
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kylemur&count_private=true&theme=tokyonight&showicons=true)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kylemur&langs_count=5&theme=tokyonight)
+
+
 ## Let's Connect!
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/kyle-murdock-byui/) profile
