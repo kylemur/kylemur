@@ -6,8 +6,8 @@ I'm Kyle Murdock, a Senior Software and Embedded Systems Engineering student at 
 
 ## About Me
 
-- I'm currently learning embedded systems by programming and physically assembling prototype devices.
-- My goals are to help as many people as possible in multiple industries and countries by developing/inventing new products.
+- I’m building [ComeToMeSports](https://kylemur.github.io/ComeToMeSports/), a web app designed to help users easily discover sporting events happening nearby.
+- My career goal is to secure a full-time role as a software developer, where I can contribute to impactful projects and continue growing my skills.
 - Ask me about the Q'eqchi' (Kekchi) language and how it led me to wanting a career in technology.
 
 ## Technologies and Tools
@@ -32,9 +32,10 @@ I'm Kyle Murdock, a Senior Software and Embedded Systems Engineering student at 
 
 ## GitHub Statistics
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kylemur&count_private=true&theme=tokyonight&showicons=true)
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kylemur&langs_count=5&theme=tokyonight)
-
+<!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kylemur&count_private=true&theme=tokyonight&show_icons=true) -->
+![My GitHub Stats](https://github-readme-stats-beryl-eight-97.vercel.app/api?username=kylemur&theme=tokyonight&showicons=true)
+<!-- ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kylemur&langs_count=5&theme=tokyonight) -->
+![My GitHub Language Stats](https://github-readme-stats-beryl-eight-97.vercel.app/api/top-langs/?username=kylemur&langs_count=5&theme=tokyonight)
 
 ## Let's Connect!
 
