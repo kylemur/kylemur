@@ -2,7 +2,7 @@
 
 ## Hi there! 👋
 
-I'm Kyle Murdock, a Senior Software and Embedded Systems Engineering student at Brigham Young University - Idaho. Welcome to my GitHub profile!
+I'm Kyle Murdock, a Software and Embedded Systems Engineering graduate from Brigham Young University - Idaho. Welcome to my GitHub profile!
 
 ## About Me
 
